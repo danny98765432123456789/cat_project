@@ -1,5 +1,14 @@
-# cat_project
+# Cat_project
 For IoT course  final project
+
+
+Monitor the kitty litter box and the motion of the cat
+
+1. Put the temp sensor an humidity sensor in the box
+
+2. Check the cat the it is at home or not
+
+
 
 Architechture
 =====
